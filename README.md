@@ -1,11 +1,11 @@
 # world_weather_analysis
 Module 6: WeatherPy
 
-Importing weather data from OpenWeather API, creating map layers for vacation destinations and itinerary using GMaps API
+Import weather data from OpenWeather API, create map layers for vacation destinations and itinerary using GMaps API.
 
 ------------------------------
 # Overview of Project
-Creating map layers and markers using API calls from OpenWeather and Google Maps.
+Create map layers and markers using API calls from OpenWeather and Google Maps.
 
 ## Project Tasks
 Create following resources:
@@ -23,7 +23,8 @@ Create following resources:
 
 # Project Results
 -- Analysis Output: 
-Three map .png images
+Map images with various heat map, marker, and direction layers.
+Files: weatherpy_vacation_map, weatherpy_travel_map, weatherpy_travel_map_markers)
 
 
 # Project Summary
